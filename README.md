@@ -7,3 +7,4 @@
 ### 3.SUM
 ### 4.AVG
 ### 5.COUNT
+### 6.MAX.MIN
