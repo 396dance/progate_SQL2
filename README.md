@@ -11,3 +11,4 @@
 ## 3章：データをグループ化しよう
 ### 7.GROUP BY
 ### 8.GROUP BY(複数)
+### 9.GROUP BY(WHERE)
